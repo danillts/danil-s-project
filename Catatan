@@ -1,0 +1,12 @@
+Tipe Data Phyton
+Tipe data primitive, ada 2:
+- Integer (Int)-> numerikal
+- String (str) -> Karakter a-z, 0-9, special character. diberi tanda dengan tanda petik (")
+- Float (float) -> hampir mirip dengan int tapi bedanya meggunakan bil desimal atau berkoma. koma dalam titik (.)
+- Boolean (bool) -> berupa TRUE/FALSE atau 0/1 
+NOTES: Int tidak bisa digabung dengan str. tetapi kalau dengan float bisa
+Di Python kalau menambahkan komentar menggunakan #
+TIPS:
+- Menggunakan variabel yang berguna
+- Dokumentasi dengan (#) agar tidak lupa
+OPERATION: Tambah (+) -> kurang (-) -> bagi (/) -> kali (*) -> modulo (%) -> pangkat (**)
